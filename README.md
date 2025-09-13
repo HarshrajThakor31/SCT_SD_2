@@ -55,7 +55,7 @@ SCT_SD_Task2/
 
 **Track**: Software Development (SD)  
 **Task**: 02  
-**Repository**: SCT_SD_Task2
+**Repository**: SCT_SD_2
 
 ---
 Made with ❤️ for SkillCraft Technology
